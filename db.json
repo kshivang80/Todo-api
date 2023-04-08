@@ -1,0 +1,98 @@
+{
+  "todos": [
+    {
+      
+      "id": 1,
+      "title": "CSS3",
+      "timestamp": "4/5/2023, 6:36:42 PM",
+      "description": "will Do",
+      "duedate": "2023-04-10",
+      "tag": "new",
+      "status": "DONE"
+    },
+    {
+     
+      "id": 2,
+      "title": "React",
+      "timestamp": "4/5/2023, 6:36:42 PM",
+      "description": "study time upto 3hrs",
+      "duedate": "2023-04-08",
+      "tag": "@420",
+      "status": "DONE"
+    },
+    {
+     
+      "id": 3,
+      "title": "HTML",
+      "timestamp": "4/5/2023, 6:36:42 PM",
+      "description": "study time upto 3hrs",
+      "duedate": "2023-04-08",
+      "tag": "&new ",
+      "status": "DONE"
+    },
+    {
+     
+      "id": 4,
+      "title": "MongoDB",
+      "timestamp": "4/5/2023, 6:36:42 PM",
+      "description": "study time upto 3hrs",
+      "duedate": "2023-04-08",
+      "tag": "34",
+      "status": "WORKING"
+    },
+    {
+      "timestamp": "4/8/2023, 2:47:42 AM",
+      "title": ".Net",
+      "description": "I will do in Future",
+      "duedate": "2023-04-08",
+      "tag": "Tiger",
+      "status": "OPEN",
+      "id": 5
+    },
+    {
+      "timestamp": "4/8/2023, 2:53:21 AM",
+      "title": "Java",
+      "description": "New Things always",
+      "duedate": "2023-04-08",
+      "tag": "Lion",
+      "status": "WORKING",
+      "id": 6
+    },
+    {
+      "timestamp": "4/8/2023, 3:03:32 AM",
+      "title": "Python",
+      "description": "computer language",
+      "duedate": "2023-04-14",
+      "tag": "hulk",
+      "status": "WORKING",
+      "id": 7
+    },
+    {
+      "timestamp": "4/8/2023, 1:22:48 PM",
+      "title": "Angular.js",
+      "description": "JavaScript framework",
+      "duedate": "2023-04-09",
+      "tag": "Monkey",
+      "status": "WORKING",
+      "id": 9
+    },
+    {
+      "timestamp": "4/8/2023, 2:58:51 PM",
+      "title": "vue.js",
+      "description": "New work",
+      "duedate": "2023-04-11",
+      "tag": "wolf",
+      "status": "OPEN",
+      "id": 10
+    },
+    {
+      "timestamp": "4/8/2023, 3:00:06 PM",
+      "title": "Next.js",
+      "description": "I will Do",
+      "duedate": "2023-04-13",
+      "tag": "New  ",
+      "status": "OPEN",
+      "id": 11
+    }
+  ]
+}
